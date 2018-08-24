@@ -1,0 +1,29 @@
+# 这题做了很久，用递归和非递归版本。以下是非递归实现：
+
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+        
+class Solution:
+    # 返回合并后列表
+    def Merge(self, pHead1, pHead2):
+        temp = ListNode(None)   #或者ListNode(0) 这里可以引用其他的类的，可以在类中引用其他类！
+        node = temp         #不能返回temp,因为temp已经到了末尾，node是一个指针，指向temp的初始地址
+        #这里很奇怪，写成上面形式，或者 node = ListNode(None) temp = node都可以  
+        while pHead1 or pHead2:
+            if pHead1==None:
+                temp.next = pHead2      #注意.next的使用，一开始就这样，忽略了初始的None
+                break
+            if pHead2 == None:
+                temp.next = pHead1
+                break
+            else:
+                if pHead1.val <=pHead2.val:
+                    temp.next = pHead1
+                    pHead1 = pHead1.next
+                else:
+                    temp.next = pHead2
+                    pHead2 = pHead2.next
+                temp = temp.next
+        return node.next    #不要初始的第一个自己初始化的结点了
