@@ -48,9 +48,7 @@
 
 [连续子数组的最大和](https://github.com/ferb2015/TargetOfferByPython/blob/master/24.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.py)
 
-[把数组排成最小的数]
-
-(https://github.com/ferb2015/TargetOfferByPython/blob/master/25.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.py)
+[把数组排成最小的数](https://github.com/ferb2015/TargetOfferByPython/blob/master/25.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.py)
 
 [丑数](https://github.com/ferb2015/TargetOfferByPython/blob/master/26.%20%E4%B8%91%E6%95%B0.py)
 
@@ -67,5 +65,41 @@
 [数组中只出现一次的数字](https://github.com/ferb2015/TargetOfferByPython/blob/master/32.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.py)
 
 [递增数组，和为某个数字](https://github.com/ferb2015/TargetOfferByPython/blob/master/33.%20%E9%80%92%E5%A2%9E%E6%95%B0%E7%BB%84%EF%BC%8C%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%AA%E6%95%B0%E5%AD%97.py)
+
+[和为S的连续整数序列](https://github.com/ferb2015/TargetOfferByPython/blob/master/34.%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%95%B4%E6%95%B0%E5%BA%8F%E5%88%97.py)
+
+[和为S的两个数字](https://github.com/ferb2015/TargetOfferByPython/blob/master/35.%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.py)
+
+[左旋转字符串](https://github.com/ferb2015/TargetOfferByPython/blob/master/36.%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.py)
+
+[翻转单词顺序列](https://github.com/ferb2015/TargetOfferByPython/blob/master/37.%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.py)
+
+[扑克牌顺子](https://github.com/ferb2015/TargetOfferByPython/blob/master/38.%20%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90.py)
+
+[孩子们的游戏(圆圈中最后剩下的数)(约瑟夫环)](https://github.com/ferb2015/TargetOfferByPython/blob/master/39.%20%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F(%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0)(%E7%BA%A6%E7%91%9F%E5%A4%AB%E7%8E%AF).py)
+
+[求1+2+3+...+n](https://github.com/ferb2015/TargetOfferByPython/blob/master/40.%20%E6%B1%821%2B2%2B3%2B...%2Bn.py)
+
+[不用加减乘除做加法](https://github.com/ferb2015/TargetOfferByPython/blob/master/41.%20%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.py)
+
+[把字符串转换成整数](https://github.com/ferb2015/TargetOfferByPython/blob/master/42.%20%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0.py)
+
+[数组中重复的数字](https://github.com/ferb2015/TargetOfferByPython/blob/master/43.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.py)
+
+[构建乘积数组](https://github.com/ferb2015/TargetOfferByPython/blob/master/44.%20%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.py)
+
+[正则表达式匹配 TODO](https://github.com/ferb2015/TargetOfferByPython/blob/master/45.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D%20TODO.py)
+
+[表示数值的字符串](https://github.com/ferb2015/TargetOfferByPython/tree/master)
+
+[字符流中第一个不重复的字符TODO](https://github.com/ferb2015/TargetOfferByPython/blob/master/47.%20%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6TODO.py)
+
+[链表中环的入口结点](https://github.com/ferb2015/TargetOfferByPython/blob/master/48.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E7%BB%93%E7%82%B9.py)
+
+[删除链表中重复的结点](https://github.com/ferb2015/TargetOfferByPython/blob/master/49.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9.py)
+
+[二叉树的下一个结点](https://github.com/ferb2015/TargetOfferByPython/blob/master/50.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BB%93%E7%82%B9.py)
+
+[对称的二叉树](https://github.com/ferb2015/TargetOfferByPython/blob/master/51.%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.py)
 
 
