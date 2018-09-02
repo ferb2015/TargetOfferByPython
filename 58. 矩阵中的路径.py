@@ -40,7 +40,7 @@ class Solution:
                 if helper(matrix,rows,cols,i,j,path,0,flag):
                     return True
         return False
-或直接写成：
+# 或直接写成：
 
 class Solution:
     def hasPath(self, matrix, rows, cols, path):       
