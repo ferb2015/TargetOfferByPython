@@ -102,4 +102,24 @@
 
 [对称的二叉树](https://github.com/ferb2015/TargetOfferByPython/blob/master/51.%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.py)
 
+[按之字形顺序打印二叉树](https://github.com/ferb2015/TargetOfferByPython/blob/master/52.%20%E6%8C%89%E4%B9%8B%E5%AD%97%E5%BD%A2%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.py)
+
+[把二叉树打印成多行](https://github.com/ferb2015/TargetOfferByPython/blob/master/53.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C.py)
+
+[序列化二叉树](https://github.com/ferb2015/TargetOfferByPython/blob/master/54.%20%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91TODO.py)
+
+[二叉搜索树的第k个结点](https://github.com/ferb2015/TargetOfferByPython/blob/master/55.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.py)
+
+[数据流中的中位数](https://github.com/ferb2015/TargetOfferByPython/blob/master/56.%20%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.py)
+
+[滑动窗口的最大值](https://github.com/ferb2015/TargetOfferByPython/blob/master/57.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.py)
+
+[矩阵中的路径](https://github.com/ferb2015/TargetOfferByPython/blob/master/58.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.py)
+
+[机器人的运动范围](https://github.com/ferb2015/TargetOfferByPython/blob/master/59.%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.py)
+
+[]()
+
+[]()
+
 
